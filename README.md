@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leopoldo Ortega</h1>
 <h3 align="center">A Web Develeoper who is passionate about creating websites and always learning the latest technologies.</h3>
 
-- 👨‍💻 All of my projects are available at [https://leovportfolio.netlify.app/](https://leovportfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://leovportfolio.netlify.app/](https://leovportfolio.netlify.app/)
+- 🚲 [Bicycle MERN Ecommerce] https://leocycles.netlify.app/
 - 💻 Looking forward to being a valuable member of your team.
 
 <h3 align="left">Languages and Tools:</h3>
