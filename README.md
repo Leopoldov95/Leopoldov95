@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leopoldo Ortega</h1>
 <h3 align="center">A Web Develeoper who is passionate about creating websites and always learning the latest technologies.</h3>
 
+<h3 align="left"> Most Used Languages</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldov95)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">💻 My Projects</h3>
 
 - 👨‍💻 My Portfolio [https://leovportfolio.netlify.app/](https://leovportfolio.netlify.app/)
