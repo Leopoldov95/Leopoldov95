@@ -16,6 +16,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldov95)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leopoldov95)](https://github.com/Leopoldov95/github-readme-stats)
+
+
 <h3 align="left">☎️ Contact Me</h3>
 
 * ✉️ leopoldoortegav@gmail.com
