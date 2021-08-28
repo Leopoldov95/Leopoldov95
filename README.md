@@ -4,6 +4,7 @@
 <h3 align="left">💻 My Projects</h3>
 
 - 👨‍💻 [My Portfolio](https://leoortega.com/)
+- 🏝 [Suay Resort](https://suay-resort.netlify.app/) A full stack hotel website created with the MERN stack and Redux
 - 🚲 [Bicycle MERN Ecommerce](https://leocycles.netlify.app/) A full stack ecommerce website created using the MERN stack and CRUD operations
 - 📱 [Pokedex](https://reactjsnationaldex.netlify.app/) A React Pokedex that shows ALL current Pokemon and Info by gathering data from an API
 - 🌤 [Weather App](https://modernweatherapp.netlify.app/) A Weather App that allows you to look for current and forecast weather at any location in the world by communicating with a weather API and has a built in map
