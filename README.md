@@ -4,6 +4,7 @@
 <h3 align="left">💻 My Projects</h3>
 
 - 👨‍💻 [My Portfolio](https://leoortega.com/)
+- 🌎 [Vagabond Connect](https://vagabondconnect.netlify.app/) A full stack social media website!
 - 🏝 [Suay Resort](https://suay-resort.netlify.app/) A full stack hotel website created with the MERN stack and Redux
 - 🚲 [Bicycle MERN Ecommerce](https://leocycles.netlify.app/) A full stack ecommerce website created using the MERN stack and CRUD operations
 - 📱 [Pokedex](https://reactjsnationaldex.netlify.app/) A React Pokedex that shows ALL current Pokemon and Info by gathering data from an API
